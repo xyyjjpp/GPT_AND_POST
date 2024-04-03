@@ -1,0 +1,14 @@
+{   
+    "MAX_ROUNDS":10,
+    "sleep_time":5,
+    "schedule_time": "14:57",
+    "PROXY_ADDR": "tunnels.qg.net:17243",
+    "AUTH_KEY": "D94F5CC8",
+    "PASSWORD": "92EAD3567CE7",
+    "key_for_cid": "cid",
+    "key_for_title": "title",
+    "key_for_content": "content",
+    "industries": {
+         "demo": "demo/config.json"      
+    }
+}
